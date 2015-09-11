@@ -13,12 +13,19 @@ del Framework.
 ## Indicaciones para colaborar con traducción 
 
 Para participar de la traducción por favor;
+
 1. Haga un Fork del repositorio.
+
 2. Revise en el documento de avances que porciones se encuentran traducidas. 
+
 3. Coloque en la sección de [Issues](https://github.com/pyve/Pyramid-Tutorial-Rapido/issues) el
 título que va a traducir. 
+
 4. Proceda a traducir la porción que indicó en el ticket. 
+
 5. Devuelva los cambios vía Pull Request. 
+
+
 Ésto para que otro colaborador pueda hacer una revisión rápida de 
 tradujo.
 

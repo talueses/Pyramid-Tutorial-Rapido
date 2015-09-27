@@ -5,8 +5,8 @@
 Una vista para ingresar que autentifica un nombre de usuario/contraseña contra una lista de
 usuarios.
 
-Background
-==========
+Fondo
+======
 
 La mayoría de las aplicaciones web tienen direcciones URL que permiten a los usuarios añadir/editar/borrar
 contenido a través de un navegador web.
